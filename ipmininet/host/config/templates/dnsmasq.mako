@@ -23,3 +23,4 @@ log-dhcp
 bind-interfaces
 
 no-daemon
+no-ping
